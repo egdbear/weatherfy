@@ -1,3 +1,3 @@
-## Description
+## Weatherfy
 
-Weatherfy is weather mobile app built with React Native.
+Weather mobile app built with React Native.
