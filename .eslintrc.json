@@ -5,7 +5,11 @@
         "jsx-a11y",
         "import"
     ],
+    "globals": {
+      "window": true
+    },
     "rules": {
+      "arrow-body-style": 0,
       "import/no-unresolved": "off",
       "jsx-a11y/no-marquee": 0,
       "react/prefer-stateless-function": 0,
