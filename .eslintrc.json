@@ -4,5 +4,11 @@
         "react",
         "jsx-a11y",
         "import"
-    ]
+    ],
+    "rules": {
+      "import/no-unresolved": "off",
+      "jsx-a11y/no-marquee": 0,
+      "react/prefer-stateless-function": 0,
+      "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }]
+    }
 }
